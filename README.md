@@ -1,6 +1,6 @@
 ## 안녕하세요 개발자 HY KIM 입니다. 👋
 
-### 과거에는 공공·금융 시스템 10년 경력의 Java 백엔드 개발자, 지금은 AI 서비스 백엔드로 확장 중입니다. 👋
+### 공공·금융 시스템 10년 경력의 Java 백엔드 개발자, 지금은 AI 서비스 백엔드로 확장 중입니다. 👋
 ### Java backend developer with 10+ years in public & financial systems, now expanding into AI service development.
 
 ### 🖥️ Backend
