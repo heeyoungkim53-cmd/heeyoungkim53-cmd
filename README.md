@@ -5,19 +5,19 @@
 
 ### My tech stack 📚 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-007396?logo=spring&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-E34F26?logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![iBatis](https://img.shields.io/badge/iBatis-000000?logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
-![MS-SQL](https://img.shields.io/badge/MS--SQL-CC2927?logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-000000?logo=oracle&logoColor=white)
+![MS-SQL](https://img.shields.io/badge/MS--SQL-000000?logo=microsoftsqlserver&logoColor=white)
 
 
 ### 🤖 AI Tools
 ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-D97757?logo=googlegemini&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-007ACC?logoColor=white)
 
 
 
